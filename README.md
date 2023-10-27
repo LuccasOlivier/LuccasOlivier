@@ -1,31 +1,25 @@
-# What's up, Coders! 👋 I'm Lucas! 👊
+# Olá Devs! 👋 Eu me chamo Lucas
 
-## Sobre mim
-Atualmente, estou me dedicando ao estudo de desenvolvimento Full Stack, buscando aprimorar minhas habilidades técnicas. Uma parte importante desse processo é a minha participação no 'Santander Bootcamp 2023 - Fullstack Java+Angular', um programa que está me capacitando nos fundamentos e tecnologias necessários para trilhar o caminho de um desenvolvedor Full Stack.
+Sejam bem-vindos! Sou um desenvolvedor Full Stack em constante busca de conhecimento e aprimoramento. Estou empenhado em expandir meu conjunto de habilidades técnicas e avançar na minha carreira como desenvolvedor. Algumas áreas nas quais tenho focado incluem:
 
-## O que estou aprendendo
-Durante o bootcamp, estou me dedicando a aprender os seguintes tópicos:
+- ![Angular](https://img.shields.io/badge/Angular-red?logo=angular) Criando experiências interativas, utilizando JavaScript e Angular para construir aplicações web envolventes.
 
-- 🧑‍💻 Princípios de Desenvolvimento de Software
-- 🌐 Desenvolvimento de páginas interativas com JavaScript
-- 🚀 Resolução de desafios de código
-- 🅰️ Produtividade com Angular
-- 🔄 Trabalho com rotas e serviços no Angular
-- ☕ Linguagem de programação Java
-- 💼 Aplicação prática no domínio bancário
-- 📊 Bancos de Dados: SQL e NoSQL para desenvolvedores
-- 🌱 Produtividade com Spring Framework e Java
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) Resolução de desafios de código que constantemente me desafiam a pensar de forma criativa, expandindo minhas habilidades em JavaScript.
 
+- ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript) Trabalhando com TypeScript para tornar minhas aplicações mais seguras e escaláveis.
 
-## Tecnologias que estou explorando
-Enquanto continuo meu aprendizado, estou ganhando experiência com as seguintes tecnologias:
+- ![Java](https://img.shields.io/badge/Java-blue?logo=java) Aplicando a linguagem de programação Java de maneira prática, adquirindo experiência em desenvolvimento de software robusto e confiável.
 
-- <img src="https://img.shields.io/badge/TypeScript-Angular-red?logo=angular" alt="Angular"> 
-- <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" alt="JavaScript"> 
-- <img src="https://img.shields.io/badge/Java-SE-blue?logo=java" alt="Java"> 
-- <img src="https://img.shields.io/badge/Databases-SQL%20%7C%20NoSQL-lightgrey" alt="Bancos de Dados"> 
+- ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=sql)  ![NoSQL](https://img.shields.io/badge/NoSQL-lightgrey?logo=nosql) Explorando bancos de dados tanto SQL quanto NoSQL, essenciais para o desenvolvimento de aplicativos com armazenamento de dados eficiente.
 
-## Entre em contato
-Estou interessado em colaborar em projetos futuros e aprender com a comunidade de desenvolvedores. Sinta-se à vontade para entrar em contato comigo.
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=spring) Aumentando a produtividade com o Spring Framework e Java, permitindo o desenvolvimento rápido e eficaz de aplicativos.
+
+- ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)  ![CSS](https://img.shields.io/badge/CSS-blue?logo=css) Utilizando HTML5 e CSS para criar interfaces atraentes e amigáveis para o usuário.
+
+- ![Git](https://img.shields.io/badge/Git-orange?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) Utilizando sistemas de controle de versão como o Git e plataformas como o GitHub para colaboração eficaz em projetos de desenvolvimento.
+
+Estou comprometido em uma jornada constante de aprendizado e evolução. Meu objetivo é me tornar um especialista em Desenvolvimento Full Stack. Estou sempre aberto a novas oportunidades e desafios no mundo da programação e disposto a aprender e crescer nesta área.
+
+Sinta-se à vontade para entrar em contato comigo para colaborações ou simplesmente para trocar ideias e experiências. Vamos aprender e crescer juntos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-b390a5273/)
