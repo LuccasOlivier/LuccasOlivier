@@ -20,6 +20,10 @@ Sejam bem-vindos! Sou um desenvolvedor Full Stack em constante busca de conhecim
 
 Estou comprometido em uma jornada constante de aprendizado e evolução. Meu objetivo é me tornar um especialista em Desenvolvimento Full Stack. Estou sempre aberto a novas oportunidades e desafios no mundo da programação e disposto a aprender e crescer nesta área.
 
+**🚀 Linguagens Mais Usadas**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasOlivier&langs_count=7&layout=compact&langs=javascript,typescript,java,css,html,angular,spring)
+
 Sinta-se à vontade para entrar em contato comigo para colaborações ou simplesmente para trocar ideias e experiências. Vamos aprender e crescer juntos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-b390a5273/)
