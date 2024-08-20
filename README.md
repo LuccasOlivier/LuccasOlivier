@@ -1,29 +1,52 @@
-# Olá Devs! 👋 Eu me chamo Lucas
+<h2 align="left">Olá Devs! 👋 Meu nome é Lucas, sou Desenvolvedor Full Stack.</h2>
 
-Sejam bem-vindos! Sou um desenvolvedor Full Stack em constante busca de conhecimento e aprimoramento. Estou empenhado em expandir meu conjunto de habilidades técnicas e avançar na minha carreira como desenvolvedor. Algumas áreas nas quais tenho focado incluem:
+###
 
-- ![Angular](https://img.shields.io/badge/Angular-red?logo=angular) Criando experiências interativas, utilizando JavaScript e Angular para construir aplicações web envolventes.
+<br clear="both">
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) Resolução de desafios de código que constantemente me desafiam a pensar de forma criativa, expandindo minhas habilidades em JavaScript.
+<p align="left">Estou cursando Análise e Desenvolvimento de Sistemas e me especializando em desenvolvimento full stack, com proficiência em Java, TypeScript e suas tecnologias associadas. Integrando teoria à prática, busco fortalecer minha base profissional enquanto me concentro no desenvolvimento de soluções robustas e eficientes.</p>
 
-- ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript) Trabalhando com TypeScript para tornar minhas aplicações mais seguras e escaláveis.
+###
 
-- ![Java](https://img.shields.io/badge/Java-blue?logo=java) Aplicando a linguagem de programação Java de maneira prática, adquirindo experiência em desenvolvimento de software robusto e confiável.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuccasOlivier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasOlivier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=sql)  ![NoSQL](https://img.shields.io/badge/NoSQL-lightgrey?logo=nosql) Explorando bancos de dados tanto SQL quanto NoSQL, essenciais para o desenvolvimento de aplicativos com armazenamento de dados eficiente.
+###
 
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=spring) Aumentando a produtividade com o Spring Framework e Java, permitindo o desenvolvimento rápido e eficaz de aplicativos.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
-- ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)  ![CSS](https://img.shields.io/badge/CSS-blue?logo=css) Utilizando HTML5 e CSS para criar interfaces atraentes e amigáveis para o usuário.
+###
 
-- ![Git](https://img.shields.io/badge/Git-orange?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) Utilizando sistemas de controle de versão como o Git e plataformas como o GitHub para colaboração eficaz em projetos de desenvolvimento.
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-olivier95/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lukashamashia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/olivier.luccas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-Estou comprometido em uma jornada constante de aprendizado e evolução. Meu objetivo é me tornar um especialista em Desenvolvimento Full Stack. Estou sempre aberto a novas oportunidades e desafios no mundo da programação e disposto a aprender e crescer nesta área.
+###
 
-**🚀 Linguagens Mais Usadas**
+<img src="https://raw.githubusercontent.com/LuccasOlivier/LuccasOlivier/output/snake.svg" alt="Snake animation" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasOlivier&langs_count=7&layout=compact&langs=javascript,typescript,java,css,html,angular,spring)
-
-Sinta-se à vontade para entrar em contato comigo para colaborações ou simplesmente para trocar ideias e experiências. Vamos aprender e crescer juntos!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-b390a5273/)
+###
