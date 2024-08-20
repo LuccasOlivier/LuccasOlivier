@@ -2,6 +2,10 @@
 
 ###
 
+<h3 align="left">Sobre mim</h3>
+
+###
+
 <br clear="both">
 
 <p align="left">Estou cursando Análise e Desenvolvimento de Sistemas e me especializando em desenvolvimento full stack, com proficiência em Java, TypeScript e suas tecnologias associadas. Integrando teoria à prática, busco fortalecer minha base profissional enquanto me concentro no desenvolvimento de soluções robustas e eficientes.</p>
@@ -12,6 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LuccasOlivier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasOlivier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="left">Minha Stack de Tecnologias</h3>
 
 ###
 
@@ -33,6 +41,10 @@
 
 ###
 
+<h4 align="left">Contatos</h4>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-olivier95/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -43,6 +55,12 @@
   <a href="https://www.instagram.com/olivier.luccas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
