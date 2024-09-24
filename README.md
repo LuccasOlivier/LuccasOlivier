@@ -1,4 +1,4 @@
-<h2 align="left">Olá Devs! 👋 Meu nome é Lucas, sou Desenvolvedor Full Stack.</h2>
+<h2 align="left">Olá Devs! 👋 Meu nome é Lucas.</h2>
 
 ###
 
