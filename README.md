@@ -10,7 +10,7 @@
 ---
 
 <h3 align="left" style="color: #00bfbf;">🔍 Sobre Mim</h3>
-<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me especializando em desenvolvimento full stack, com proficiência em Java, Angular e suas tecnologias associadas. Busco integrar teoria à prática, fortalecendo minha base profissional e focando no desenvolvimento de soluções robustas e eficientes.</p>
+<p align="left">Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full Stack. Experiência em Python, Java, Angular e tecnologias associadas, sempre buscando integrar teoria e prática para criar soluções robustas e eficientes.</p>
 
 ---
 
