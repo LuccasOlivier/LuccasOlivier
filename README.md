@@ -49,6 +49,16 @@
 
 ---
 
+<h4 align="center" style="color: #00bfbf;">🌐 Portfólio Pessoal</h4>
+
+<p align="center">
+  <a href="https://lucas-olivier-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-00bfbf?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" alt="Portfolio link"/>
+  </a>
+</p>
+
+---
+
 <h4 align="left" style="color: #00bfbf;">📫 Contatos e Redes Sociais</h4>
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-olivier95/" target="_blank">
