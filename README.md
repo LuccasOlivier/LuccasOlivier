@@ -10,7 +10,7 @@
 ---
 
 <h3 align="left" style="color: #00bfbf;">🔍 Sobre Mim</h3>
-<p align="left">Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full Stack. Experiência em Python, Java, Angular e tecnologias associadas, sempre buscando integrar teoria e prática para criar soluções robustas e eficientes.</p>
+<p align="left">Desenvolvedor Full Stack focado em criar soluções práticas, bem estruturadas e de alto desempenho. Experiência em diferentes tecnologias e boas práticas de desenvolvimento, com atuação em projetos que envolvem backend, frontend e integração de sistemas.</p>
 
 ---
 
@@ -49,15 +49,16 @@
 
 ---
 
-<h4 align="center" style="color: #00bfbf;">🌐 Portfólio Pessoal</h4>
+<h4 align="left" style="color: #00bfbf;">🌐 Portfólio Pessoal</h4>
 
-<p align="center">
+<p align="left">
   <a href="https://lucas-olivier-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20Portfólio-00bfbf?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" alt="Portfolio link"/>
   </a>
 </p>
 
 ---
+
 
 <h4 align="left" style="color: #00bfbf;">📫 Contatos e Redes Sociais</h4>
 <div align="left">
